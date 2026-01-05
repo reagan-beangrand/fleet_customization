@@ -1,0 +1,309 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Trip Routes",
+  "ending_point": "Mumbai",
+  "fixed_expenses": [
+   {
+    "amount": 1000.0,
+    "currency": "INR",
+    "expense": "Driver Allowances",
+    "parent": "Chennai-Mumbai",
+    "parentfield": "fixed_expenses",
+    "parenttype": "Trip Routes",
+    "party_type": "Employee"
+   },
+   {
+    "amount": 2500.0,
+    "currency": "INR",
+    "expense": "Permit",
+    "parent": "Chennai-Mumbai",
+    "parentfield": "fixed_expenses",
+    "parenttype": "Trip Routes",
+    "party_type": "Employee"
+   },
+   {
+    "amount": 500.0,
+    "currency": "INR",
+    "expense": "Toll",
+    "parent": "Chennai-Mumbai",
+    "parentfield": "fixed_expenses",
+    "parenttype": "Trip Routes",
+    "party_type": "Employee"
+   }
+  ],
+  "modified": "2025-12-17 23:07:28.836642",
+  "name": "Chennai-Mumbai",
+  "route_name": "Chennai-Mumbai",
+  "starting_point": "Chennai",
+  "total_distance": 1300,
+  "total_fuel_consumption_qty": 1850.0,
+  "total_tzs": 0.0,
+  "total_usd": 0.0,
+  "trip_steps": [
+   {
+    "distance": 325.0,
+    "fuel_consumption_qty": 500.0,
+    "is_international_border": 0,
+    "is_local_border": 1,
+    "location": "Border Point1 Location",
+    "location_type": "Border Point1",
+    "parent": "Chennai-Mumbai",
+    "parentfield": "trip_steps",
+    "parenttype": "Trip Routes"
+   },
+   {
+    "distance": 250.0,
+    "fuel_consumption_qty": 300.0,
+    "is_international_border": 0,
+    "is_local_border": 1,
+    "location": "Border Point2 Location",
+    "location_type": "Border Point2",
+    "parent": "Chennai-Mumbai",
+    "parentfield": "trip_steps",
+    "parenttype": "Trip Routes"
+   },
+   {
+    "distance": 425.0,
+    "fuel_consumption_qty": 700.0,
+    "is_international_border": 0,
+    "is_local_border": 0,
+    "location": "Mumbai",
+    "location_type": "Offloading Point",
+    "parent": "Chennai-Mumbai",
+    "parentfield": "trip_steps",
+    "parenttype": "Trip Routes"
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Trip Routes",
+  "ending_point": "Tutunma",
+  "fixed_expenses": [],
+  "modified": "2025-12-20 13:58:01.369793",
+  "name": "Namanga-Tutunma",
+  "route_name": "Namanga-Tutunma",
+  "starting_point": "Namanga",
+  "total_distance": 985,
+  "total_fuel_consumption_qty": 1455.0,
+  "total_tzs": 0.0,
+  "total_usd": 0.0,
+  "trip_steps": [
+   {
+    "distance": 10.0,
+    "fuel_consumption_qty": 5.0,
+    "is_international_border": 0,
+    "is_local_border": 0,
+    "location": "Namanga",
+    "location_type": "Loading Point",
+    "parent": "Namanga-Tutunma",
+    "parentfield": "trip_steps",
+    "parenttype": "Trip Routes"
+   },
+   {
+    "distance": 250.0,
+    "fuel_consumption_qty": 350.0,
+    "is_international_border": 0,
+    "is_local_border": 1,
+    "location": "Border Point2 Location",
+    "location_type": "Border Point2",
+    "parent": "Namanga-Tutunma",
+    "parentfield": "trip_steps",
+    "parenttype": "Trip Routes"
+   },
+   {
+    "distance": 325.0,
+    "fuel_consumption_qty": 500.0,
+    "is_international_border": 0,
+    "is_local_border": 1,
+    "location": "Border Point1 Location",
+    "location_type": "Border Point1",
+    "parent": "Namanga-Tutunma",
+    "parentfield": "trip_steps",
+    "parenttype": "Trip Routes"
+   },
+   {
+    "distance": 400.0,
+    "fuel_consumption_qty": 600.0,
+    "is_international_border": 0,
+    "is_local_border": 0,
+    "location": "Tutumba",
+    "location_type": "Offloading Point",
+    "parent": "Namanga-Tutunma",
+    "parentfield": "trip_steps",
+    "parenttype": "Trip Routes"
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Trip Routes",
+  "ending_point": "Bangalore",
+  "fixed_expenses": [
+   {
+    "amount": 1000.0,
+    "currency": "INR",
+    "expense": "Driver Allowances",
+    "parent": "Chennai-Bangalore",
+    "parentfield": "fixed_expenses",
+    "parenttype": "Trip Routes",
+    "party_type": "Employee"
+   },
+   {
+    "amount": 2500.0,
+    "currency": "INR",
+    "expense": "Permit",
+    "parent": "Chennai-Bangalore",
+    "parentfield": "fixed_expenses",
+    "parenttype": "Trip Routes",
+    "party_type": "Employee"
+   },
+   {
+    "amount": 500.0,
+    "currency": "INR",
+    "expense": "Toll",
+    "parent": "Chennai-Bangalore",
+    "parentfield": "fixed_expenses",
+    "parenttype": "Trip Routes",
+    "party_type": "Employee"
+   }
+  ],
+  "modified": "2025-12-17 19:04:01.199460",
+  "name": "Chennai-Bangalore",
+  "route_name": "Chennai-Bangalore",
+  "starting_point": "Chennai",
+  "total_distance": 325,
+  "total_fuel_consumption_qty": 100.0,
+  "total_tzs": 0.0,
+  "total_usd": 0.0,
+  "trip_steps": [
+   {
+    "distance": 325.0,
+    "fuel_consumption_qty": 100.0,
+    "is_international_border": 0,
+    "is_local_border": 1,
+    "location": "Chennai",
+    "location_type": "Offloading Point",
+    "parent": "Chennai-Bangalore",
+    "parentfield": "trip_steps",
+    "parenttype": "Trip Routes"
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Trip Routes",
+  "ending_point": "End",
+  "fixed_expenses": [],
+  "modified": "2025-12-20 16:01:06.127608",
+  "name": "Simple-Simple",
+  "route_name": "Simple-Simple",
+  "starting_point": "Start",
+  "total_distance": 200,
+  "total_fuel_consumption_qty": 10.0,
+  "total_tzs": 0.0,
+  "total_usd": 0.0,
+  "trip_steps": [
+   {
+    "distance": 200.0,
+    "fuel_consumption_qty": 10.0,
+    "is_international_border": 0,
+    "is_local_border": 0,
+    "location": "Chennai",
+    "location_type": "Loading Point",
+    "parent": "Simple-Simple",
+    "parentfield": "trip_steps",
+    "parenttype": "Trip Routes"
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Trip Routes",
+  "ending_point": "Namanga",
+  "fixed_expenses": [
+   {
+    "amount": 1000.0,
+    "currency": "USD",
+    "expense": "Driver Allowances",
+    "parent": "Tutunma-Namanga",
+    "parentfield": "fixed_expenses",
+    "parenttype": "Trip Routes",
+    "party_type": "Employee"
+   },
+   {
+    "amount": 2500.0,
+    "currency": "USD",
+    "expense": "Permit",
+    "parent": "Tutunma-Namanga",
+    "parentfield": "fixed_expenses",
+    "parenttype": "Trip Routes",
+    "party_type": "Employee"
+   },
+   {
+    "amount": 500.0,
+    "currency": "USD",
+    "expense": "Toll",
+    "parent": "Tutunma-Namanga",
+    "parentfield": "fixed_expenses",
+    "parenttype": "Trip Routes",
+    "party_type": "Employee"
+   }
+  ],
+  "modified": "2025-12-18 13:04:28.706039",
+  "name": "Tutunma-Namanga",
+  "route_name": "Tutunma-Namanga",
+  "starting_point": "Tutunma",
+  "total_distance": 985,
+  "total_fuel_consumption_qty": 1455.0,
+  "total_tzs": 0.0,
+  "total_usd": 4000.0,
+  "trip_steps": [
+   {
+    "distance": 10.0,
+    "fuel_consumption_qty": 5.0,
+    "is_international_border": 0,
+    "is_local_border": 0,
+    "location": "Tutumba",
+    "location_type": "Loading Point",
+    "parent": "Tutunma-Namanga",
+    "parentfield": "trip_steps",
+    "parenttype": "Trip Routes"
+   },
+   {
+    "distance": 325.0,
+    "fuel_consumption_qty": 500.0,
+    "is_international_border": 0,
+    "is_local_border": 1,
+    "location": "Border Point1 Location",
+    "location_type": "Border Point1",
+    "parent": "Tutunma-Namanga",
+    "parentfield": "trip_steps",
+    "parenttype": "Trip Routes"
+   },
+   {
+    "distance": 250.0,
+    "fuel_consumption_qty": 350.0,
+    "is_international_border": 0,
+    "is_local_border": 1,
+    "location": "Border Point2 Location",
+    "location_type": "Border Point2",
+    "parent": "Tutunma-Namanga",
+    "parentfield": "trip_steps",
+    "parenttype": "Trip Routes"
+   },
+   {
+    "distance": 400.0,
+    "fuel_consumption_qty": 600.0,
+    "is_international_border": 0,
+    "is_local_border": 0,
+    "location": "Namanga",
+    "location_type": "Offloading Point",
+    "parent": "Tutunma-Namanga",
+    "parentfield": "trip_steps",
+    "parenttype": "Trip Routes"
+   }
+  ]
+ }
+]

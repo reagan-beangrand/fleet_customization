@@ -256,8 +256,6 @@ fixtures =[
     #{"dt": "Trip Locations Type"},
     #{"dt": "Cargo Types"},
     #{"dt": "Fixed Expenses"},
-    #{"dt": "Transport Settings"},
-    #{"dt": "Fuel Requests"},    
-    #{"dt": "Round Trip"},
-    
+    #{"dt": "Transport Settings"},   
+    {"dt":"Trip Routes"}  
 ]
