@@ -1,0 +1,71 @@
+[
+ {
+  "chassis_number": "CN7466",
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Trailers",
+  "image": "/private/files/trailer2.jpeg",
+  "manufacturing_year": 2024,
+  "modified": "2025-12-18 09:22:41.968410",
+  "name": "PN9876",
+  "number_of_axels": 8,
+  "plate_number": "PN9876",
+  "status": "Available",
+  "suspension_type": "Air Suspension",
+  "trailer_documents": [],
+  "trailer_make": "TATA",
+  "trailer_number": "TN-002",
+  "trailer_type": "Flat Bed",
+  "tyre_specification": "Super Single"
+ },
+ {
+  "chassis_number": "CN46231",
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Trailers",
+  "image": "/private/files/trailer3.jpeg",
+  "manufacturing_year": 2023,
+  "modified": "2025-12-18 09:23:25.565738",
+  "name": "PN4562",
+  "number_of_axels": 4,
+  "plate_number": "PN4562",
+  "status": "Available",
+  "suspension_type": "Leaf Spring",
+  "trailer_documents": [],
+  "trailer_make": "TATA",
+  "trailer_number": "TN-003",
+  "trailer_type": "Flat Bed",
+  "tyre_specification": "Double Tyres"
+ },
+ {
+  "chassis_number": "CN4567",
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Trailers",
+  "image": "/private/files/trailer.jpeg",
+  "manufacturing_year": 2024,
+  "modified": "2025-12-18 09:21:53.588173",
+  "name": "PN1234",
+  "number_of_axels": 8,
+  "plate_number": "PN1234",
+  "status": "Available",
+  "suspension_type": "Air Suspension",
+  "trailer_documents": [
+   {
+    "attachment": "/private/files/RCbook.txt",
+    "description": null,
+    "expire_date": "2027-12-31",
+    "issue_date": "2023-01-01",
+    "name1": "RC",
+    "parent": "PN1234",
+    "parentfield": "trailer_documents",
+    "parenttype": "Trailers",
+    "reference_number": "RC7894"
+   }
+  ],
+  "trailer_make": "Ashok Leyland",
+  "trailer_number": "TN-001",
+  "trailer_type": "Flat Bed",
+  "tyre_specification": "Super Single"
+ }
+]

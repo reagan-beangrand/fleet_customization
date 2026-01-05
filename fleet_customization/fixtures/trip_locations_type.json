@@ -1,0 +1,57 @@
+[
+ {
+  "arrival_date": 1,
+  "departure_date": 1,
+  "docstatus": 0,
+  "doctype": "Trip Locations Type",
+  "loading_date": 1,
+  "location_type": "Loading Point",
+  "modified": "2025-12-17 15:37:10.612052",
+  "name": "Loading Point",
+  "offloading_date": 0
+ },
+ {
+  "arrival_date": 1,
+  "departure_date": 1,
+  "docstatus": 0,
+  "doctype": "Trip Locations Type",
+  "loading_date": 0,
+  "location_type": "Offloading Point",
+  "modified": "2025-12-17 15:37:33.172237",
+  "name": "Offloading Point",
+  "offloading_date": 1
+ },
+ {
+  "arrival_date": 1,
+  "departure_date": 1,
+  "docstatus": 0,
+  "doctype": "Trip Locations Type",
+  "loading_date": 0,
+  "location_type": "Border Point1",
+  "modified": "2025-12-17 22:55:38.165322",
+  "name": "Border Point1",
+  "offloading_date": 0
+ },
+ {
+  "arrival_date": 1,
+  "departure_date": 1,
+  "docstatus": 0,
+  "doctype": "Trip Locations Type",
+  "loading_date": 0,
+  "location_type": "Border Point3",
+  "modified": "2025-12-17 22:56:55.713404",
+  "name": "Border Point3",
+  "offloading_date": 0
+ },
+ {
+  "arrival_date": 1,
+  "departure_date": 1,
+  "docstatus": 0,
+  "doctype": "Trip Locations Type",
+  "loading_date": 0,
+  "location_type": "Border Point2",
+  "modified": "2025-12-17 22:56:40.359380",
+  "name": "Border Point2",
+  "offloading_date": 0
+ }
+]

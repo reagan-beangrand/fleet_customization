@@ -1,0 +1,34 @@
+[
+ {
+  "cargo_name": "General Cargo",
+  "docstatus": 0,
+  "doctype": "Cargo Types",
+  "modified": "2025-12-17 15:39:55.034510",
+  "name": "General Cargo",
+  "permits": []
+ },
+ {
+  "cargo_name": "Containerized Cargo",
+  "docstatus": 0,
+  "doctype": "Cargo Types",
+  "modified": "2025-12-17 15:39:36.019352",
+  "name": "Containerized Cargo",
+  "permits": []
+ },
+ {
+  "cargo_name": "Bulk Cargo",
+  "docstatus": 0,
+  "doctype": "Cargo Types",
+  "modified": "2025-12-17 15:40:26.979076",
+  "name": "Bulk Cargo",
+  "permits": []
+ },
+ {
+  "cargo_name": "Break Bulk Cargo",
+  "docstatus": 0,
+  "doctype": "Cargo Types",
+  "modified": "2025-12-17 15:40:40.617783",
+  "name": "Break Bulk Cargo",
+  "permits": []
+ }
+]

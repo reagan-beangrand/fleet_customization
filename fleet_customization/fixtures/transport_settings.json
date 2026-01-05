@@ -1,0 +1,41 @@
+[
+ {
+  "accounting_dimension": [],
+  "cash_or_bank_account_group": [
+   {
+    "account_group": "Bank Accounts - VL",
+    "parent": "Transport Settings",
+    "parentfield": "cash_or_bank_account_group",
+    "parenttype": "Transport Settings"
+   },
+   {
+    "account_group": "Cash In Hand - VL",
+    "parent": "Transport Settings",
+    "parentfield": "cash_or_bank_account_group",
+    "parenttype": "Transport Settings"
+   }
+  ],
+  "docstatus": 0,
+  "doctype": "Transport Settings",
+  "expense_account_group": [
+   {
+    "account_group": "Expenses - VL",
+    "parent": "Transport Settings",
+    "parentfield": "expense_account_group",
+    "parenttype": "Transport Settings"
+   },
+   {
+    "account_group": "Operational Expenses - VL",
+    "parent": "Transport Settings",
+    "parentfield": "expense_account_group",
+    "parenttype": "Transport Settings"
+   }
+  ],
+  "fuel_item": "Fuel-Petrol-001",
+  "fuel_item_group": "Fuel",
+  "modified": "2025-12-18 14:14:55.441263",
+  "name": "Transport Settings",
+  "sales_item_group": "All Item Groups",
+  "vehicle_fuel_parent_warehouse": "All Warehouses - VL"
+ }
+]

@@ -1,0 +1,35 @@
+[
+ {
+  "cash_bank_account": "Cash - VL",
+  "currency": "USD",
+  "description": "Driver Allowances",
+  "docstatus": 0,
+  "doctype": "Fixed Expenses",
+  "expense_account": "Driver Allowances - VL",
+  "fixed_value": 1000.0,
+  "modified": "2025-12-17 23:52:47.470040",
+  "name": "Driver Allowances"
+ },
+ {
+  "cash_bank_account": "Cash - VL",
+  "currency": "USD",
+  "description": "Toll",
+  "docstatus": 0,
+  "doctype": "Fixed Expenses",
+  "expense_account": "Toll Expenses - VL",
+  "fixed_value": 500.0,
+  "modified": "2025-12-17 23:53:34.250275",
+  "name": "Toll"
+ },
+ {
+  "cash_bank_account": "Cash - VL",
+  "currency": "USD",
+  "description": "Permit",
+  "docstatus": 0,
+  "doctype": "Fixed Expenses",
+  "expense_account": "Permit Expenses - VL",
+  "fixed_value": 2500.0,
+  "modified": "2025-12-17 23:53:08.503273",
+  "name": "Permit"
+ }
+]

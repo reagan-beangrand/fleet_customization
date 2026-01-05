@@ -1,0 +1,18 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Fuel UOM",
+  "enabled": 1,
+  "modified": "2025-12-17 15:14:56.068148",
+  "name": "Gallons",
+  "uom_name": "Gallons"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Fuel UOM",
+  "enabled": 1,
+  "modified": "2025-12-17 15:15:23.433918",
+  "name": "Liters",
+  "uom_name": "Liters"
+ }
+]
