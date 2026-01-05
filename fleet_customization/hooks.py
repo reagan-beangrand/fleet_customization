@@ -257,5 +257,6 @@ fixtures =[
     #{"dt": "Cargo Types"},
     #{"dt": "Fixed Expenses"},
     #{"dt": "Transport Settings"},   
-    {"dt":"Trip Routes"}  
+    #{"dt":"Trip Routes"}
+    #{"dt":"Custom Field","filters":[["module","=","Fleet Customization"]]}
 ]
