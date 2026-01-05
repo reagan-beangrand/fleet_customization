@@ -257,11 +257,7 @@ fixtures =[
     #{"dt": "Cargo Types"},
     #{"dt": "Fixed Expenses"},
     #{"dt": "Transport Settings"},
-    #{"dt": "Cargo Registration"},
-    #{"dt": "Trips"},
-    #{"dt": "Fuel Requests"},
-    #{"dt": "Requested Payment"},
-    #{"dt": "Manifest"},
+    #{"dt": "Fuel Requests"},    
     #{"dt": "Round Trip"},
-    #{"dt": "Trip Breakdown"},
+    
 ]
